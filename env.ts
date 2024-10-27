@@ -1,5 +1,5 @@
 const env = {
-  NEXT_PUBLIC_PARTY_KIT_URL: "localhost:3000/editor",
+  NEXT_PUBLIC_PARTY_KIT_URL: process.env.NEXT_PUBLIC_PARTY_KIT_URL!,
 };
 
 export { env };

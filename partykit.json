@@ -1,0 +1,7 @@
+{
+  "name": "collaborative-editor",
+  "main": "party/room.ts",
+  "parties": {
+    "room": "party/room.ts"
+  }
+}

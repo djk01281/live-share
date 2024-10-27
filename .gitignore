@@ -41,3 +41,6 @@ next-env.d.ts
 
 # package lock
 package-lock.json
+
+# PartyKit
+.partykit/
