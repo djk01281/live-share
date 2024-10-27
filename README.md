@@ -4,7 +4,7 @@
 
 ## 링크
 
-> https://live-share-omega.vercel.app
+> https://live-share-omega.vercel.app 접속 후, `Editor` 링크 클릭.
 
 ## 예시
 
@@ -72,7 +72,10 @@ intellisense만 생각해도 벌써 머리가 아프다..
 
 여러 사용자가 동시에 사용해야 하고, user interaction이 많다보니까 테스트나 에러 처리 난이도가 확 증가함.
 
-<br>
+**Synchronization 문제**
+
+누가 더 높은 우선순위를 가질 것인가에 대한 문제는 role-based로 하거나,
+Excalidraw처럼 라인별로 version number 부여 / 유저별로 random한 숫자를 생성 후 더 높은 사람에게 부여하면 될 것 같음. (https://youtu.be/gvEoTVjVjB8?si=tSUqyxLGSE5wZPrf)
 
 ## 결론
 
