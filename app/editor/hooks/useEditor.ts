@@ -1,4 +1,4 @@
-import { useEffect, useCallback } from "react";
+import { useEffect } from "react";
 import * as Y from "yjs";
 import { yCollab } from "y-codemirror.next";
 import { EditorView, basicSetup } from "codemirror";
