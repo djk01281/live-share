@@ -78,5 +78,6 @@ intellisense만 생각해도 벌써 머리가 아프다..
 Excalidraw처럼 라인별로 version number 부여 / 유저별로 random한 숫자를 생성 후 더 높은 사람에게 부여하면 될 것 같음. (https://youtu.be/gvEoTVjVjB8?si=tSUqyxLGSE5wZPrf)
 
 ## 결론
-
-> 모르겠당.
+> **IDE** 및 **live share 기능 구현**에 대한 어려움 파악.
+> 
+> 대신 **동시 편집 기능의 구현**에 대한 가능성 검증.
